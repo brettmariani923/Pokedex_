@@ -1,0 +1,1 @@
+This is an ORM and Dapper exercise where I recreated a Pokédex using C# and SQL Server. I implemented two ways to manage the database: bulk inserts using deployment scripts, and individual inserts, updates, and deletions using IDbConnection methods. This project helped me practice both large-scale data loading and fine-tuned database control through Dapper.
